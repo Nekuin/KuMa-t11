@@ -1,0 +1,10 @@
+public class Koodari{
+	//huutist
+	public Koodari(){
+		String s = "asd/asd*/";
+		String huijari = "hui!";
+	}
+	/*
+	* asd/dsa*sad/**/
+	*/
+}
